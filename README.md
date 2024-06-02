@@ -1,2 +1,2 @@
-# FooEtAl
- Python package for Foo Et Al paramaterizations
+# Foo
+ This is a Python package for Foo physics operations.
