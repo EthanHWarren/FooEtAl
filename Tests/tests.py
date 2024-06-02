@@ -1,4 +1,4 @@
-from ..src.FooEtAl.sphere import *
+from FooEtAl import *
 
 #"correct" answers are from Desmos online graphing calculator. They use pi to the 11th place, or 3.14159265359.
 #testing random value
