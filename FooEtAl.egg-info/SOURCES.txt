@@ -1,8 +1,0 @@
-README.md
-setup.py
-FooEtAl/__init__.py
-FooEtAl/sphere.py
-FooEtAl.egg-info/PKG-INFO
-FooEtAl.egg-info/SOURCES.txt
-FooEtAl.egg-info/dependency_links.txt
-FooEtAl.egg-info/top_level.txt
